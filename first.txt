@@ -1,2 +1,4 @@
 gitの練習をします
 ワークフローを練習します。
+git add
+git commit
